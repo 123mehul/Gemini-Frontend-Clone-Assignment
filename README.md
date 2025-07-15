@@ -66,5 +66,8 @@ To build a responsive, modular frontend for a conversational AI application that
 
 ## 📸 Screenshots
 
-![login](Screenshot 2025-07-15 223318.png)
+![login](chat.png)
+![login](signup.png)
+
+
 
