@@ -16,17 +16,17 @@ Gemini Frontend Clone is a conversational AI web interface inspired by Google's 
 ## ⚙️ Setup & Run Instructions
 
 1. Clone the repository
-git clone https://github.com/yourusername/gemini-frontend-clone.git
-cd gemini-frontend-clone
+   - git clone https://github.com/yourusername/gemini-frontend-clone.git
+   - cd gemini-frontend-clone
 
 2. Install dependencies
-npm install
+   - npm install
 
 3. Start the development server
-npm run dev
+   - npm run dev
 
 4. Visit
-http://localhost:3000
+   - http://localhost:3000
 
 ---
 
