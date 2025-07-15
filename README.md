@@ -1,4 +1,4 @@
-# Gemini Frontend Clone – Conversational AI UI 💬✨
+# Gemini Frontend Clone 💬✨
 
 A modern, responsive, and accessible frontend clone of Google’s Gemini conversational AI, built using **Next.js 15**, **Tailwind CSS**, **Zustand**, and **React Hook Form**.  
 This project fulfills the full assignment requirement — including OTP-based login, chatroom simulation, dark mode, modern UI patterns, accessibility, and local data storage.
