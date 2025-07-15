@@ -5,26 +5,27 @@ This project fulfills the full assignment requirement — including OTP-based lo
 
 ---
 
-📘 Project Overview
+## 📘 Project Overview
+
 Gemini Frontend Clone is a conversational AI web interface inspired by Google's Gemini UI. It features OTP login, chatroom management, simulated AI messaging, and modern UI/UX best practices — all built with Next.js 15, Tailwind CSS, Zustand, and more.
 
 🔗 Live link: https://lunakid270.netlify.app/
 
 ---
 
-⚙️ Setup & Run Instructions
+## ⚙️ Setup & Run Instructions
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/yourusername/gemini-frontend-clone.git
 cd gemini-frontend-clone
 
-# 2. Install dependencies
+2. Install dependencies
 npm install
 
-# 3. Start the development server
+3. Start the development server
 npm run dev
 
-# 4. Visit
+4. Visit
 http://localhost:3000
 
 ---
