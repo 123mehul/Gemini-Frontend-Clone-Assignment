@@ -33,18 +33,18 @@ http://localhost:3000
 # 🧠 Core Implementation Details
 
 - ⏳ Throttling (AI Message Rate)
--- Custom throttle utility prevents multiple AI messages from flooding on rapid user inputs.
--- Controlled by a setTimeout to simulate natural typing delay.
+   - Custom throttle utility prevents multiple AI messages from flooding on rapid user inputs.
+   - Controlled by a setTimeout to simulate natural typing delay.
 
 - 🔁 Pagination & Infinite Scroll
--- Chat messages load newest-to-oldest (reverse scroll).
--- Older messages fetched on scroll-up trigger (simulated).
--- Stored client-side via Zustand for persistence.
+  - Chat messages load newest-to-oldest (reverse scroll).
+  - Older messages fetched on scroll-up trigger (simulated).
+  - tored client-side via Zustand for persistence.
 
 - 🧩 Form Validation
--- React Hook Form for OTP and phone input handling
--- Zod for schema-based field validation with real-time error messages
--- Ensures user cannot submit invalid formats (e.g., empty OTP)
+  - React Hook Form for OTP and phone input handling
+  - Zod for schema-based field validation with real-time error messages
+  -  Ensures user cannot submit invalid formats (e.g., empty OTP)
 
 ---
 
